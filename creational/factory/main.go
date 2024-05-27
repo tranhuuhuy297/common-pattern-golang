@@ -4,7 +4,7 @@ import "fmt"
 
 // Factory method is a creational design pattern
 // which solves the problem of creating product objects
-// without specifying their concrete classes.
+// without specifying their concrete classes
 
 func main() {
 	ak47, _ := GetGun("ak47")
