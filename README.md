@@ -1,2 +1,2 @@
-# concurrency-pattern-golang
-Common concurrency pattern in Golang
+# common-pattern-golang
+Common pattern in Golang
